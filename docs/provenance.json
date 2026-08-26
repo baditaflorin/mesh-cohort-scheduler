@@ -1,0 +1,8 @@
+{
+  "schemaVersion": 1,
+  "app": "mesh-cohort-scheduler",
+  "sourceCommit": "d7fc67341eb97fbb9af3b67036a48b44e43f1e38",
+  "releaseCommit": "d7fc67341eb97fbb9af3b67036a48b44e43f1e38",
+  "meshCommonCommit": "025f7ff72e50c4b54a3f4a2d8c88f4f600dec78f",
+  "recordedAt": "2026-08-26T19:45:40Z"
+}
